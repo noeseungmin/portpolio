@@ -1,13 +1,29 @@
 # 노승민 포트폴리오
 
 ## 📌: Intro
+**노승민(Noh SeungMin)** 
+
+현재 JAVA & Spring을 이용해 백엔드 개발을 공부하고 있습니다.   
+개발을 단순 작업이 아닌 시간 투자 대비 최대한의 효율성을 고민하고 실행하는 개발자로 성장하고 싶습니다.  
 
 </br>
 
 ## 📌: Contact
 - 이메일: winmin96@gmail.com
 - 깃헙: https://github.com/noeseungmin
+<br>
 
+## 📌: Skills
+- **Language**
+  - Java
+- **Framework/Library**
+  - Spring
+- **Database**
+  - MariaDB, OracleDB
+- **Tool / DevOps**
+  - Github
+- **Environment**
+  - Linux, Windows
 </br>
 
 ## 📌: Projects
@@ -23,7 +39,7 @@
 
 ---
 
-### 2. [PROJECT_LAON](https://github.com/noeseungmin/project-loan)
+### 2. [PROJECT_LOAN](https://github.com/noeseungmin/project-loan)
 > 대출 서비스 API 개발(개인 프로젝트)  
 > 개발 기간: 2023.04.10 ~ 2023.05.15
 >
