@@ -55,7 +55,7 @@
 > 개발 기간: 2023.07.16 ~ 2023.08.04(진행중)
 >
 > 기술 스택:  
-> JAVA 11 / Gradle 7.6.1 / Spring Boot 2.7.10 / Spring Web / Spring Data JPA / Lombok / H2 / ModelMapper
+> JAVA 11 / Gradle 7.6.1 / Spring Boot 2.7.10 / Spring Web / Spring Data JPA / Lombok / H2 / ModelMapper /
 > vue 3.34 / element-plus / MariaDB 
 >
 >[프로젝트 상세 설명](https://github.com/noeseungmin/Inventory)
