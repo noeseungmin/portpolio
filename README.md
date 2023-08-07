@@ -9,13 +9,13 @@
 </br>
 
 ## 📌: Contact
-- 이메일: winmin96@gmail.com
+- 이메일: nowinmin96@gmail.com
 - 깃헙: https://github.com/noeseungmin
 <br>
 
 ## 📌: Skills
 - **Language**
-  - Java
+  - Java, JavaScript
 - **Framework/Library**
   - Spring
 - **Database**
